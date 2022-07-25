@@ -49,7 +49,7 @@ p {
   border-top-left-radius: 20px;
   border-bottom-left-radius: 20px;
   height: 100%;
-  background-image: url("/Users/Elizabeth/docs/FrontEndMentor/product-preview-card-component-main/images/image-product-desktop.jpg");
+  background-image: url("images/image-product-desktop.jpg");
   background-size: contain;
   background-repeat: no-repeat;
 }
@@ -87,7 +87,7 @@ p {
   }
 
   .imagen {
-    background-image: url('/Users/Elizabeth/docs/FrontEndMentor/product-preview-card-component-main/images/image-product-mobile.jpg');
+    background-image: url('images/image-product-mobile.jpg');
     width: 100%;
     border-top-right-radius: 20px;
     border-bottom-left-radius: 0;
